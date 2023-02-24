@@ -1,0 +1,6 @@
+[submodule "src/linux"]
+	path = src/linux
+	url = https://github.com/orumin/psvr2-sie-kernel
+[submodule "src/kern_module"]
+	path = src/kern_module
+	url = https://github.com/orumin/psvr2-sie-kernel-modules
